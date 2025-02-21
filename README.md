@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Contribution Guidelines
 
-## Getting Started
+We are thrilled to welcome contributors to **Leadlly**! Below are the guidelines to help you contribute efficiently.
 
-First, run the development server:
+## 📚 Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Node.js** (>= 14.x.x)
+- **npm** or **yarn** (package manager)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Fork the Repository:**
+   - Click the "Fork" button in the top-right corner of the page to create your own copy of the repository.
 
-## Learn More
+2. **Clone the Forked Repository:**
+   ```bash
+   git clone https://github.com/{your-username}/leadlly.admin.web.git
+   cd leadlly.admin.web
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **Run the application**:
+    ```bash
+    npm run dev
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5. **Access the application**:
+    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deploy on Vercel
+## 🎯 How to Contribute
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We welcome contributions! If you'd like to help improve the Leadlly Mentor Platform, follow these steps:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes.
+4. Open a pull request and describe your changes.
+
+## 🐛 Reporting Issues
+
+If you encounter any issues while using the platform, please feel free to open an issue on the repository. Provide as much detail as possible to help us address the problem quickly.
+
+## 🛡️ Security
+
+If you find any security vulnerabilities, please report them privately to [business@leadlly.in](mailto:business@leadlly.in). We take security issues seriously and will address them promptly.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [`LICENSE`](./LICENSE) file for more details.
+
+## 🎉 Hacktoberfest Participation:
+
+- Contributions should be meaningful and address an issue or feature request.
+- Avoid creating spam or low-quality pull requests, as these will not be accepted.
+- Tag your pull requests with "Hacktoberfest" to ensure they count toward Hacktoberfest.
+
+## 📝 Code Of Conduct:
+
+- **Be Respectful**: Always be courteous and respectful when interacting with other contributors and maintainers.
+- **Collaborate**: Help others by reviewing code, suggesting improvements, or answering questions.
+- **Keep Learning**: Open source is a great way to learn and improve your skills, so ask questions and engage with the community.
+- **Contribution Process**: 
+  - To indicate you're working on an issue, comment "I am working on this issue." Our team will verify your activity. If there is no response, the issue may be reassigned.
+  - Please do not claim an issue that is already assigned to someone else.
+
+## 📞 Contact
+
+For any further questions or support, reach out to us at:
+- **Email**: [support@leadlly.in](mailto:support@leadlly.in)
+- **Website**: [Leadlly.in](https://leadlly.in)
