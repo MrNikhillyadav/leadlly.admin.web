@@ -23,8 +23,9 @@ const config = {
 				'2xl': '1400px',
 			},
 			fontFamily: {
-				sans: ['var(--font-sans)', ...fontFamily.sans],
+				Mada: ['var(--mada-font)'],
 			},
+		
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
